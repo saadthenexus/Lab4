@@ -1,4 +1,5 @@
 class Book {
+    
     private String title;
     private String author;
     private String genre;
@@ -10,6 +11,46 @@ class Book {
         this.author = author;
         this.genre = genre;
         this.pages = pages;
+        this.dateRead = dateRead;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+
+    public int getPages() {
+        return pages;
+    }
+
+    public void setPages(int pages) {
+        this.pages = pages;
+    }
+
+    public String getDateRead() {
+        return dateRead;
+    }
+
+    public void setDateRead(String dateRead) {
         this.dateRead = dateRead;
     }
 

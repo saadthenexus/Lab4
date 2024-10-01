@@ -1,0 +1,325 @@
+[
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "pages": 320,
+      "date_read": "2023-02-14"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "pages": 310,
+      "date_read": "2023-03-01"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "pages": 328,
+      "date_read": "2023-04-21"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "pages": 281,
+      "date_read": "2023-05-10"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Classic",
+      "pages": 214,
+      "date_read": "2023-01-20"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "pages": 180,
+      "date_read": "2023-06-30"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "pages": 268,
+      "date_read": "2023-07-12"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "pages": 585,
+      "date_read": "2023-08-15"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Classic",
+      "pages": 279,
+      "date_read": "2023-09-03"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical",
+      "pages": 1225,
+      "date_read": "2023-10-01"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "pages": 208,
+      "date_read": "2023-03-23"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "pages": 430,
+      "date_read": "2023-11-15"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic",
+      "pages": 241,
+      "date_read": "2023-12-02"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "pages": 423,
+      "date_read": "2023-04-11"
+    },
+    {
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "pages": 352,
+      "date_read": "2023-05-05"
+    },
+    {
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "pages": 416,
+      "date_read": "2023-06-14"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "pages": 443,
+      "date_read": "2023-07-08"
+    },
+    {
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "pages": 449,
+      "date_read": "2023-08-22"
+    },
+    {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "genre": "Self-Help",
+      "pages": 371,
+      "date_read": "2023-09-19"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genre": "Self-Help",
+      "pages": 224,
+      "date_read": "2023-10-28"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Non-Fiction",
+      "pages": 499,
+      "date_read": "2023-11-06"
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Memoir",
+      "pages": 334,
+      "date_read": "2023-12-18"
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "pages": 336,
+      "date_read": "2023-01-15"
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "genre": "Fantasy",
+      "pages": 387,
+      "date_read": "2023-02-07"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "pages": 447,
+      "date_read": "2023-03-12"
+    },
+    {
+      "title": "Misery",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "pages": 320,
+      "date_read": "2023-04-04"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "pages": 418,
+      "date_read": "2023-05-19"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "pages": 280,
+      "date_read": "2023-06-25"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Classic",
+      "pages": 254,
+      "date_read": "2023-07-15"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Classic",
+      "pages": 500,
+      "date_read": "2023-08-10"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Classic",
+      "pages": 416,
+      "date_read": "2023-09-17"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "pages": 374,
+      "date_read": "2023-10-05"
+    },
+    {
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "pages": 391,
+      "date_read": "2023-11-22"
+    },
+    {
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "pages": 398,
+      "date_read": "2023-12-12"
+    },
+    {
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "genre": "Dystopian",
+      "pages": 375,
+      "date_read": "2023-01-03"
+    },
+    {
+      "title": "Divergent",
+      "author": "Veronica Roth",
+      "genre": "Dystopian",
+      "pages": 487,
+      "date_read": "2023-02-26"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "pages": 313,
+      "date_read": "2023-03-19"
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "pages": 415,
+      "date_read": "2023-04-14"
+    },
+    {
+      "title": "Sharp Objects",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "pages": 272,
+      "date_read": "2023-05-03"
+    },
+    {
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Thriller",
+      "pages": 395,
+      "date_read": "2023-06-08"
+    },
+    {
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "genre": "Fiction",
+      "pages": 460,
+      "date_read": "2023-07-20"
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "genre": "Fiction",
+      "pages": 338,
+      "date_read": "2023-08-14"
+    },
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "genre": "Romance",
+      "pages": 273,
+      "date_read": "2023-09-09"
+    },
+    {
+      "title": "The Goldfinch",
+      "author": "Donna Tartt",
+      "genre": "Fiction",
+      "pages": 771,
+      "date_read": "2023-10-25"
+    },
+    {
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "genre": "Fiction",
+      "pages": 559,
+      "date_read": "2023-11-30"
+    },
+    {
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Mystery",
+      "pages": 368,
+      "date_read": "2023-12-20"
+    }
+]
+  
